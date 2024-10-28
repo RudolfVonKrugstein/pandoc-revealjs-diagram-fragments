@@ -2,14 +2,14 @@
 
 Pandoc filter for revealjs target to add syntax for incremental showing diagrams using fragments.
 
-[!IMPORTANT]
-This filter makes only sense, if another filter to render the diagrams is also
-used later in the filter chain (i.E. [diagram](https://github.com/pandoc-ext/diagram)).
+> [!IMPORTANT]
+> This filter makes only sense, if another filter to render the diagrams is also
+> used later in the filter chain (i.E. [diagram](https://github.com/pandoc-ext/diagram)).
 
-[!WARNING]
-For now I created this filter for myself, and it might not have a stable interface.
-This might change if other people are interested, but for now I might change the
-API without warning to my personal preference at any time.
+> [!WARNING]
+> For now I created this filter for myself, and it might not have a stable interface.
+> This might change if other people are interested, but for now I might change the
+> API without warning to my personal preference at any time.
 
 ## Description
 
